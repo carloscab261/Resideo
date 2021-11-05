@@ -1,0 +1,38 @@
+html {
+
+    font-size: 62.5%; /* =10px */
+    display: flex;
+    flex-direction: column;
+    height:100%;
+
+}
+
+body {
+    font-size: 1.6rem; /* =16px */
+    display: flex;
+    flex-direction: column;
+    height:100%;
+
+    
+}
+
+
+
+.navbar{
+    font-size: 1.5rem;
+}
+
+span{
+    font-size: 2.3rem;
+    color: black;
+}
+.card {
+    font-size: 1.5rem;
+}
+.card {
+    font-size: 1.5rem;
+}
+
+.liga{
+    font-size: 2rem;
+}
